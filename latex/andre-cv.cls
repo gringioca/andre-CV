@@ -15,7 +15,7 @@
 %
 % This work consists of all files listed in manifest.txt.
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{andre-cv}[2026-04-14]
+\ProvidesClass{andre-cv}[2026-10-23]
 
 \RequirePackage{etoolbox}
 
@@ -30,6 +30,7 @@
 
 % Language
 \DeclareOption{english}{\def\cv@language{english}\def\cv@babellang{english}}
+\DeclareOption{australian}{\def\cv@language{australian}\def\cv@babellang{australian}}
 \DeclareOption{german}{\def\cv@language{german}\def\cv@babellang{ngerman}}
 
 % Theme and letter-style selection
