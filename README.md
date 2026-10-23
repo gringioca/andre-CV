@@ -127,7 +127,7 @@ The unified class accepts:
 - `letter=german-din`, `letter=us-business`, or `letter=none`
 - `10pt`, `11pt`, `12pt`
 - `a4paper`, `letterpaper`
-- `english`, `german`
+- `english`, `australian`, `german`
 
 Theme defaults:
 

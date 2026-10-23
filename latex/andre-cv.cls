@@ -30,6 +30,7 @@
 
 % Language
 \DeclareOption{english}{\def\cv@language{english}\def\cv@babellang{english}}
+\DeclareOption{australian}{\def\cv@language{australian}\def\cv@babellang{australian}}
 \DeclareOption{german}{\def\cv@language{german}\def\cv@babellang{ngerman}}
 
 % Theme and letter-style selection
