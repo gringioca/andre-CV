@@ -15,7 +15,7 @@
 %
 % This work consists of all files listed in manifest.txt.
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{andre-cv}[2026-04-14]
+\ProvidesClass{andre-cv}[2026-10-23]
 
 \RequirePackage{etoolbox}
 
